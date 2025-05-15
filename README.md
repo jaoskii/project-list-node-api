@@ -7,6 +7,8 @@ npm start
 ```
 
 Second make sure to change to configuration under config/databases.js
+based on your working credential of PostgreSQL
+make sure to have an existing database named **"projectsdb"**
 
 ![image](https://github.com/user-attachments/assets/b871db9e-375a-4230-9995-d68714fed69a)
 

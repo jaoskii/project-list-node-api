@@ -1,6 +1,6 @@
 ## Setting up the database configuration
 
-**Make sure to change to configuration under config/databases.js
+**Make sure to change to configuration under _config/databases.js_
 based on your working credential of PostgreSQL
 make sure to have an existing database named** _**"projectsdb"**_
 
